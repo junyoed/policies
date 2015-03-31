@@ -2,7 +2,7 @@
 
 *March 31, 2015* 
 
-This is the privacy policy for all [Junyo](http://junyo.com) products and services. The current version of this policy can always be found at [http://junyo.com/privacy](http://junyo.com/privacy). Archives are available in [github](https://github.com/junyoed/policies/privacy).
+This is the privacy policy for all [Junyo](http://junyo.com) products and services. The current version of this policy can always be found at [http://junyo.com/privacy](http://junyo.com/privacy). Archives are available in [github](https://github.com/junyoed/policies/).
 
 ## Mission
 We take seriously our responsibility to protect the data entrusted to us, and we have crafted the policy below to be as clear and straightforward as possible. Our aim is for you - our users and customers - to be informed and empowered with respect to your privacy with Junyo.
